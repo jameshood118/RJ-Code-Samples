@@ -1,0 +1,17 @@
+.banner_small_image {
+    -webkit-animation-delay: inherit;
+    animation-delay: inherit;
+}
+
+.banner_small_wrapper {
+    -webkit-animation-name: banner_small_wrapper;
+    animation-name: banner_small_wrapper;
+    -webkit-animation-duration: inherit;
+    animation-duration: inherit;
+    -webkit-transition: inherit;
+    transition: inherit;
+    -webkit-animation-fill-mode: inherit;
+    animation-fill-mode: inherit;
+    animation-iteration-count: inherit;
+    -webkit-animation-iteration-count: inherit;
+}
